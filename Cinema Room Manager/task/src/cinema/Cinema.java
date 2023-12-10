@@ -12,7 +12,6 @@ public class Cinema {
     private static int currentIncome;
 
     public static void main(String[] args) {
-        // Write your code here
         System.out.println("Enter the number of rows:");
         rowsNum = scanner.nextInt();
         System.out.println("Enter the number of seats in each row:");
